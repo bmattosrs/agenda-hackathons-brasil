@@ -7,7 +7,12 @@
 
 09 e 10 - [Hacka PagBank](https://hackapagbank.gupy.io/) - São Paulo/SP - ![presencial]
 
+09 e 10 - [PRES PRUDENTE HACKATHON 2024](https://pphackathon.uxpro.com.br/) - Presidente Prudente/SP - ![presencial]
+
 22, 23 e 24 - [Senac Decola / Hackathon](https://www.sympla.com.br/evento/senac-decola-hackathon/2700209?referrer=ww3.ms.senac.br) - Campo Grande/MS - ![presencial]
+
+<br>
+<br>
 
 ## Dezembro
 Em breve
