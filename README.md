@@ -17,7 +17,7 @@
 
 22, 23 e 24 - [Senac Decola / Hackathon](https://www.sympla.com.br/evento/senac-decola-hackathon/2700209?referrer=ww3.ms.senac.br) - Campo Grande/MS - ![presencial]
 
-25, 26, 27, 28 e 29 - [Hackathon CBS](https://19cbs.inf.ufg.br/) - Goiania/GO - [!presencial]
+25, 26, 27, 28 e 29 - [Hackathon CBS](https://19cbs.inf.ufg.br/) - Goiania/GO - ![presencial]
 
 <br>
 <br>
