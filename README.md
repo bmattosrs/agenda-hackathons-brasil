@@ -23,7 +23,25 @@
 <br>
 
 ## Dezembro
-Em breve
+06, 07 e 08 - [Smart Cities Hackathon 2024](https://docs.google.com/forms/d/e/1FAIpQLSdAfk5tQq4gPFpIFbi9l2TlSt0mwjLuTibkNMGzJcDVFgWA_w/closedform) - Londrina/PR - ![presencial]
+
+13, 14 e 15 - [Hackathon SESI Lab](https://hackathonsesilab.com.br/) - Brasília/DF - ![presencial]
+
+<br>
+<br>
+
+## Janeiro
+
+<br>
+<br>
+
+## Fevereiro
+
+<br>
+<br>
+
+## Marco
+17, 18, 19 e 20 - [Brazil DSRH 2025](https://docs.google.com/forms/d/e/1FAIpQLSczXOBbPkCq41FsfrxZd9waDx6gKkO23DE2scvrOcDd4ae-jA/viewform) - Rio de Janeiro/RJ - ![presencial]
 
 [online]: https://img.shields.io/badge/online-F95E7C
 [presencial]: https://img.shields.io/badge/presencial-471A9B
